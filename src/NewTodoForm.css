@@ -1,0 +1,22 @@
+.NewTodoForm {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 400px;
+  margin: 5px auto;
+  padding: 10px;
+  border-bottom: 1px black solid;
+}
+
+.NewTodoForm-btn {
+  margin: 0px 5px;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+}
+
+.NewTodoForm-label {
+  margin: auto 0px;
+  font-size: 18px;
+}
